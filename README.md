@@ -13,6 +13,7 @@ If you enter the same incorrect password into this python script it will tell yo
 This is all done without ai (bad and good thing)
 
 # How to use it:
+Follow these instructions:
 -Download the zip file 
 -Extrat 
 -Run the "Password_Fixer" exe 
