@@ -13,13 +13,13 @@ If you enter the same incorrect password into this python script it will tell yo
 This is all done without ai (bad and good thing)
 
 # How to use it
--Download the zip file 
--Extrat
--Run the "Password_Fixer" exe
--Follow instructions inside of the program
--Edit the password according to the 'weaknesses'
+-Download the zip file --->
+-Extrat --->
+-Run the "Password_Fixer" exe --->
+-Follow instructions inside of the program ---> 
+-Edit the password according to the 'weaknesses' --->
 
 # Future updates
 As this is not going to be my main focus not a lot of updates will be comming apart from:
-- Bug fixes
+- Bug fixes --->
 - Suggested passwords from ai??? 
