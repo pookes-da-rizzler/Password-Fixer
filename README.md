@@ -1,8 +1,8 @@
 # Warning
-I am not responisble for any legal trouble you use this for
-I am not resposible for what you use this for
-This is not SOLEY for the use of aiding phishing attacks but yet an example and aid of creating a strong password
-There will be BUGS as i did not promise this would be a good program
+I am not responisble for any legal trouble you use this for.
+I am not resposible for what you use this for.
+This is not SOLEY for the use of aiding phishing attacks but yet an example and aid of creating a strong password.
+There will be BUGS as i did not promise this would be a good program.
 
 # Password-Fixer
 A lot of phishing websites want you to put your password but does not check if the password is correct. This python script makes it so it will help you correct the incorrect passwords.
@@ -13,7 +13,7 @@ If you enter the same incorrect password into this python script it will tell yo
 This is all done without ai (bad and good thing)
 
 # How to use it
--Download the zip file
+-Download the zip file 
 -Extrat
 -Run the "Password_Fixer" exe
 -Follow instructions inside of the program
